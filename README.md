@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
 <h3 align="center">A passionate Engineer from IIT Kanpur</h3>
-<p align="right"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"/> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuy20&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuy20" /> </p>
+
 
 - 🔭 I’m currently working on [Game Analytics](sdg)
 
