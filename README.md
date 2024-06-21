@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science, Product Management, ML**
 
-- 👯 I’m looking to collaborate on [Sales Dashboard](dcgvh)
+- 👯 I’m looking to collaborate on [Game Analytics](https://iitk-my.sharepoint.com/:x:/g/personal/himanshuy20_iitk_ac_in/Eaa75UsS1v9LsclW3WQuPn8BkChzV1AL5_UmW6sjhgzXHw?e=tg3IoJ&nav=MTVfezFDNjBGNjkyLTU4MEUtNEE4OS05MzgxLTY1RjIzREQxQTk3MX0)
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/himanshuy20](www.linkedin.com/in/himanshuy20)
 
